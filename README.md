@@ -1,5 +1,4 @@
 # data-analysis_2020-10
-Own data analysis project during postgraduate
 该代码分析5个方面的问题：
 1.探究各个城市数据分析岗的需求量
 2.探究所有城市数据分析岗的福利规律
